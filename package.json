@@ -1,0 +1,16 @@
+{
+  "name": "sonos-knx-alarm",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martijn Dierckx",
+  "license": "ISC",
+  "dependencies": {
+    "eibd": "^0.4.3",
+    "moment": "^2.24.0",
+    "sonos": "^1.12.5"
+  }
+}
