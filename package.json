@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "eibd": "^0.4.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "sonos": "^1.12.5"
   }
 }
