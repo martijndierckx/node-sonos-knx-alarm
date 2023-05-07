@@ -11,6 +11,6 @@
   "dependencies": {
     "eibd": "^0.4.3",
     "moment": "^2.24.0",
-    "sonos": "^1.12.5"
+    "sonos": "^1.14.1"
   }
 }
